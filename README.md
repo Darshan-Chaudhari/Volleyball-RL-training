@@ -5,7 +5,7 @@
 
 A 2D side-view volleyball game, written from scratch in Pygame, where two AI players learn to rally through self-play. The game is wrapped as a [PettingZoo](https://pettingzoo.farama.org/) environment and trained with PPO in [Ray RLlib](https://docs.ray.io/en/latest/rllib/index.html), using one neural network shared by both players.
 
-**Video walkthrough:** [YOUR VIDEO LINK]
+**Video walkthrough:** (https://youtu.be/uGXnX8b3dbM)
 
 <!-- Add a GIF or screenshot of the trained agents here, e.g. ![demo](media/demo.gif) -->
 
